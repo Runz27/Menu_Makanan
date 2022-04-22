@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Menu Makanan</string>
+    <string name="bakso">string</string>
+    <string name="gadogado">string</string>
+    <string name="gorengan">string</string>
+    <string name="oporyam">string</string>
+    <string name="gudeg">string</string>
+    <string name="ketoprak">string</string>
+    <string name="nasikuning">string</string>
+    <string name="otakotak">string</string>
+    <string name="pecellele">string</string>
+    <string name="pempek">string</string>
+    <string name="rawon">string</string>
+    <string name="rendang">string</string>
+    <string name="sate">string</string>
+    <string name="soto">string</string>
+</resources>
